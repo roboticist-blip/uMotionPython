@@ -9,9 +9,9 @@ setup(
         "opencv-python"
     ],
     python_requires='>=3.7',
-    author="Your Name",
+    author="robticist-blip",
     description="Python version of μMotion library for lightweight motion detection",
-    url="https://github.com/yourusername/uMotionPython",
+    url="https://github.com/roboticist-blip/uMotionPython",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
