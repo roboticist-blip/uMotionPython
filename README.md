@@ -1,11 +1,10 @@
 # uMotionPython
 
-```markdown
 # μMotion Python Library
 
 μMotion is a **lightweight motion detection library for Python** inspired by the Arduino μMotion library.  
 It uses OpenCV and NumPy to detect motion on any camera compatible with OpenCV.
-
+---
 ## Features
 
 - Motion detection in Python for Raspberry Pi, Jetson, PC, etc.
@@ -15,7 +14,7 @@ It uses OpenCV and NumPy to detect motion on any camera compatible with OpenCV.
 - Adjustable threshold for motion sensitivity
 - Simple and clean API similar to Arduino library
 - Easy to run examples for quick testing
-
+---
 ## Installation
 
 ```bash
