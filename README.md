@@ -1,4 +1,4 @@
-# uMotionPython
+# μMotionPython
 
 μMotion is a **lightweight motion detection library for Python** inspired by the Arduino μMotion library.  
 It uses OpenCV and NumPy to detect motion on any camera compatible with OpenCV.
