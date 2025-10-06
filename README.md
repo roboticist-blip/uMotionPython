@@ -21,6 +21,8 @@ cd uMotionPython
 python3 -m pip install -e .
 ```
 ---
+**How uMotion is Different from OpenCV Motion Detection**
+
 OpenCV is a general-purpose computer vision library. uMotion is a motion intelligence engine purpose-built for embedded vision, real-time performance, and AI-assisted decision systems. Built for the edge. Faster than OpenCV.
 
 Open for contributions and test !
