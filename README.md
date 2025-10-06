@@ -19,3 +19,8 @@ It uses OpenCV and NumPy to detect motion on any camera compatible with OpenCV.
 git clone https://github.com/roboticist-blip/uMotionPython
 cd uMotionPython
 python3 -m pip install -e .
+```
+---
+OpenCV is a general-purpose computer vision library. uMotion is a motion intelligence engine purpose-built for embedded vision, real-time performance, and AI-assisted decision systems. Built for the edge. Faster than OpenCV.
+
+Open for contributions and test !
